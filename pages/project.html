@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title id="projeto-titulo-pagina">Detalhes do Projeto — PORTFÓLIO</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.0/font/bootstrap-icons.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <link
+        href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;500;700;900&family=Exo+2:wght@300;400;500;600&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="../assets/css/project.css">
+</head>
+
+<body data-theme="dark">
+    <!-- Navbar -->
+    <nav class="navbar navbar-expand-lg navbar-dark fixed-top">
+        <div class="container">
+            <a class="navbar-brand" href="index.html">Ke<span style="color: var(--secondary)">ven</span></a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
+                aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+
+
+                <div class="ms-lg-3 mt-3 mt-lg-0 d-flex align-items-center">
+                    <span class="me-2"><i class="bi bi-sun-fill"></i></span>
+                    <label class="theme-switch">
+                        <input type="checkbox" id="theme-toggle">
+                        <span class="slider"></span>
+                    </label>
+                    <span class="ms-2"><i class="bi bi-moon-stars-fill"></i></span>
+                </div>
+            </div>
+        </div>
+    </nav>
+
+    <div class="hero-bg"></div>
+    <div id="particles-js"></div>
+    <main class="container-page">
+        <nav aria-label="breadcrumb">
+            <ol class="breadcrumb">
+                <li class="breadcrumb-item"><a href="index.html">Início</a></li>
+                <li class="breadcrumb-item"><a href="index.html#projects">Projetos</a></li>
+                <li class="breadcrumb-item active" id="breadcrumb-project-name"></li>
+            </ol>
+        </nav>
+
+        <div class="project-header">
+            <h1 class="project-title" id="project-title"></h1>
+            <p class="project-subtitle" id="projeto-short-descricao"></p>
+        </div>
+
+        <div class="project-content">
+            <div class="project-details">
+                <h3>Descrição Completa</h3>
+                <p id="projeto-descricao"></p>
+                <h3>Funcionalidades</h3>
+                <ul id="projeto-features"></ul>
+                <h3>Desafios e Soluções</h3>
+                <p id="projeto-desafios"></p>
+            </div>
+            <aside class="project-sidebar">
+                <div class="project-card">
+                    <h4>Informações Técnicas</h4>
+                    <p>
+                        <strong>Status:</strong> <span id="projeto-status"></span><br>
+                        <strong>Lançamento:</strong> <span id="projeto-release-date"></span><br>
+                        <strong>Versão:</strong> <span id="projeto-version"></span><br>
+                        <strong>Tipo:</strong> <span id="projeto-type"></span>
+                    </p>
+                </div>
+                <div class="project-card">
+                    <h4>Tecnologias Utilizadas</h4>
+                    <div id="projeto-tecnologias" style="display: flex; flex-wrap: wrap; gap: 8px;">
+
+                    </div>
+                </div>
+                <div class="project-card">
+                    <h4>Links</h4>
+                    <a href="#" class="btn-custom btn-link mb-2" id="projeto-link" target="_blank"><i
+                            class="bi bi-box-arrow-up-right"></i> Ver Projeto</a>
+                    <a href="#" class="btn-custom btn-repo" id="projeto-repo" target="_blank"><i
+                            class="bi bi-github"></i> Repositório</a>
+                </div>
+            </aside>
+        </div>
+
+        <section class="image-gallery">
+            <h2 class="gallery-title">Galeria de Imagens</h2>
+            <div id="projectCarousel" class="carousel slide" data-bs-ride="carousel">
+                <div class="carousel-inner" id="carousel-items"></div>
+                <button class="carousel-control-prev" type="button" data-bs-target="#projectCarousel"
+                    data-bs-slide="prev">
+                    <span class="carousel-control-prev-icon"></span>
+                </button>
+                <button class="carousel-control-next" type="button" data-bs-target="#projectCarousel"
+                    data-bs-slide="next">
+                    <span class="carousel-control-next-icon"></span>
+                </button>
+            </div>
+        </section>
+
+        <div class="text-center mt-4">
+            <a href="index.html#projects" class="btn-custom btn-repo"><i class="bi bi-arrow-left"></i> Voltar para
+                Projetos</a>
+        </div>
+    </main>
+
+    <footer class="footer">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-4 mb-4 mb-lg-0">
+                    <h5>&lt;Keven/&gt;</h5>
+                    <p>Desenvolvendo soluções inovadoras para o mundo digital.</p>
+                </div>
+                <div class="col-lg-4 mb-4 mb-lg-0">
+                    <h5>Contato</h5>
+                    <p>Email: ogkeven287@gmail.com</p>
+                    <p>Telefone: (11) 99999-9999</p>
+                </div>
+                <div class="col-lg-4">
+                    <h5>Redes Sociais</h5>
+                    <div class="social-links">
+                        <a href="#" class="social-icon"><i class="fab fa-github"></i></a>
+                        <a href="#" class="social-icon"><i class="fab fa-linkedin-in"></i></a>
+                        <a href="#" class="social-icon"><i class="fab fa-twitter"></i></a>
+                        <a href="#" class="social-icon"><i class="fab fa-instagram"></i></a>
+                    </div>
+                </div>
+            </div>
+            <hr class="my-4">
+            <div class="text-center">
+                <p>&copy; 2023 Keven. Todos os direitos reservados.</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
+    <script src="../assets/js/project.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,256 @@
+[
+  {
+    "id": "1756843924702",
+    "title": "Sistema de Gestão para Pizzaria 🍕",
+    "short_description": "Descrição bolada",
+    "description": "Projeto pessoal desenvolvido para fins de aprendizagem, implementando um sistema para pizzaria com:\n\n- Área Pública: Para clientes montarem e acompanharem pedidos\n- Área Administrativa: Com autenticação para gestão do negócio\n- Stack: Java, Spring Boot, MySQL, Thymeleaf e Docker",
+    "challenges_and_solutions": "---\nA principal dor de cabeça na gestão de pedidos por telefone e WhatsApp é a falta de controle. O atendimento manual leva a erros frequentes, como pedidos anotados de forma incorreta ou a incapacidade de rastrear entregas em tempo real. Isso sobrecarrega os atendentes e causa insatisfação nos clientes, que precisam ligar várias vezes para saber o status do pedido. Além disso, a gestão de estoque, promoções e relatórios fica desorganizada, dependendo de anotações e planilhas, o que dificulta a tomada de decisões e a aplicação de descontos.\n\nA solução para esses problemas é a digitalização completa do processo. Um sistema eficiente permite que o cliente faça o pedido online, personalizando cada detalhe e eliminando erros de interpretação. Ele também oferece rastreamento de entregas em tempo real e exibe a disponibilidade de itens do cardápio e ingredientes. Por fim, o sistema automatiza a validação de cupons e a geração de relatórios de vendas e desempenho financeiro, fornecendo aos gestores as ferramentas necessárias para um negócio mais eficiente e lucrativo.",
+    "status": "Concluído",
+    "release_date": "16/09/2025",
+    "version": "1.0",
+    "type": "Full-Stack",
+    "project_link": "https://github.com/Keven-Costa/sistema-de-gestao-para-pizzaria",
+    "repository_link": "https://github.com/Keven-Costa/sistema-de-gestao-para-pizzaria",
+    "createdAt": "2025-09-02T20:12:04.702Z",
+    "updatedAt": "2025-09-10T13:54:19.653Z",
+    "technologies_used": [
+      "Java",
+      "MySQL",
+      "Thymeleaf",
+      "Docker",
+      "Bootstrap",
+      "HTML, CSS, JS"
+    ],
+    "features": [
+      "Montagem interativa de pedidos",
+      "Checkout simplificado",
+      "Rastreamento do pedido",
+      "Dashboard",
+      "Gestão de pedidos",
+      "Gestão de estoque de ingredientes",
+      "Gerenciamento de cardápio",
+      "Autenticação segura (Spring Security)"
+    ],
+    "img": [
+      "https://github.com/Keven-Costa/sistema-de-gestao-para-pizzaria/blob/main/imagens-das-telas/tela1.png?raw=true",
+      "https://github.com/Keven-Costa/sistema-de-gestao-para-pizzaria/raw/main/imagens-das-telas/tela1-2.png",
+      "https://github.com/Keven-Costa/sistema-de-gestao-para-pizzaria/raw/main/imagens-das-telas/tela2.png",
+      "https://github.com/Keven-Costa/sistema-de-gestao-para-pizzaria/raw/main/imagens-das-telas/tela3.png",
+      "https://github.com/Keven-Costa/sistema-de-gestao-para-pizzaria/raw/main/imagens-das-telas/tela4.png",
+      "https://github.com/Keven-Costa/sistema-de-gestao-para-pizzaria/raw/main/imagens-das-telas/tela5.png",
+      "https://github.com/Keven-Costa/sistema-de-gestao-para-pizzaria/raw/main/imagens-das-telas/tela5.png",
+      "https://github.com/Keven-Costa/sistema-de-gestao-para-pizzaria/raw/main/imagens-das-telas/tela6.png",
+      "https://github.com/Keven-Costa/sistema-de-gestao-para-pizzaria/raw/main/imagens-das-telas/tela7.png"
+    ],
+    "tag": [
+      "Tag-1",
+      "Tag-2",
+      "Tag-3",
+      "Tag-4"
+    ]
+  },
+  {
+    "title": "Carros Bolados",
+    "short_description": "Carros Bolados é um site responsivo e moderno, criado com HTML5 e CSS, para uma empresa automotiva.",
+    "description": "O projeto Carros Bolados é um site dinâmico e responsivo desenvolvido para apresentar os serviços e promoções de uma empresa do setor automotivo. Com uma interface intuitiva, o site é estruturado em HTML5 e utiliza CSS para estilização, garantindo uma experiência visual atraente e moderna.",
+    "challenges_and_solutions": "...",
+    "status": "Em desenvolvimento",
+    "release_date": "04/11/2024",
+    "version": "1.0",
+    "type": "Front-End",
+    "project_link": "https://keven-costa.github.io/carros-bolados/pages/",
+    "repository_link": "https://github.com/Keven-Costa/carros-bolados?tab=readme-ov-file#projeto-carros-bolados",
+    "createdAt": "2025-09-10T15:03:57.575Z",
+    "updatedAt": "2025-09-10T15:03:57.563Z",
+    "technologies_used": [
+      "HTML | CSS | JS",
+      "Bootstrap"
+    ],
+    "features": [
+      "Banner: Imagem de destaque no topo da página.",
+      "Carrossel de imagens: Mostra carros de forma dinâmica.",
+      "Seções de conteúdo: Apresenta a missão, visão e valores da empresa.",
+      "Promoções: Exibe ofertas de produtos em cartões.",
+      "CTAs (Chamadas para Ação): Botões que incentivam o usuário a interagir, como \"Fale Conosco\"."
+    ],
+    "img": [
+      "https://github.com/Keven-Costa/carros-bolados/raw/main/assets/meu-gif.gif"
+    ],
+    "tag": [
+      "Tag-1",
+      "Tag-2",
+      "Tag-3",
+      "Tag-4"
+    ],
+    "id": "1757516637575"
+  },
+  {
+    "title": "Meu Portfólio",
+    "short_description": "Portfólio interativo de um pessoa fictícia, criado com HTML, CSS e JavaScript para exibir projetos de desenvolvimento front-end.",
+    "description": "Este projeto tem como objetivo apresentar um portfólio online interativo, desenvolvido utilizando HTML, CSS e JavaScript. O portfólio é um espaço digital dedicado a exibir as habilidades e projetos de um desenvolvedor front-end fictício chamado Lucas Uzumaki.",
+    "challenges_and_solutions": "...",
+    "status": "Em desenvolvimento",
+    "release_date": "10/09/2024",
+    "version": "1.0",
+    "type": "Front-End",
+    "project_link": "https://github.com/Keven-Costa/trabalho-final?tab=readme-ov-file#projeto-meu-portf%C3%B3lio",
+    "repository_link": "https://keven-costa.github.io/trabalho-final/",
+    "createdAt": "2025-09-10T15:18:09.977Z",
+    "updatedAt": "2025-09-10T15:18:09.973Z",
+    "technologies_used": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "features": [
+      "Apresentação Pessoal: Mostra nome, foto, título profissional e uma breve introdução.",
+      "Projetos em Destaque: Exibe projetos com imagem, título e descrição em um layout organizado.",
+      "Habilidades Visuais: Apresenta habilidades de programação com barras de progresso.",
+      "Contatos Diretos: Oferece links para e-mail, LinkedIn e GitHub.",
+      "Navegação Rápida: O rodapé contém links que levam a todas as seções da página."
+    ],
+    "img": [
+      "https://github.com/Keven-Costa/trabalho-final/raw/main/assets/meu-gif.gif"
+    ],
+    "tag": [
+      "Tag-1",
+      "Tag-2",
+      "Tag-3",
+      "Tag-4"
+    ],
+    "id": "1757517489977"
+  },
+  {
+    "title": "Projeto Planejamento Informatica 💻 (Em desenvolvimento ⚠️)",
+    "short_description": "Em desenvolvimento ⚠️",
+    "description": "...",
+    "challenges_and_solutions": "...",
+    "status": "Em desenvolvimento",
+    "release_date": "10/09/2025",
+    "version": "1.0",
+    "type": "Front-End",
+    "project_link": "",
+    "repository_link": "https://github.com/Keven-Costa/projeto-planejamento-informatica-?tab=readme-ov-file#projeto-planejamento-informatica--em-desenvolvimento-%EF%B8%8F",
+    "createdAt": "2025-09-10T15:28:55.027Z",
+    "updatedAt": "2025-09-10T15:28:55.024Z",
+    "technologies_used": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "features": [
+      "Página Inicial de Cadastro: Uma tela simples com opções para o usuário.",
+      "Botão \"Cadastrar\": Redireciona para um formulário de cadastro de novos usuários.",
+      "Botão \"Ver Usuários\": Permite visualizar uma lista de perfis já registrados.",
+      "Design Moderno: Utiliza o framework Bootstrap para um visual responsivo e organizado.",
+      "Integração com Backend: Preparada para se comunicar com um servidor, possivelmente via Flask, para processar os dados."
+    ],
+    "img": [
+      "https://github.com/Keven-Costa/projeto-planejamento-informatica-/raw/main/meu-gif.gif"
+    ],
+    "tag": [
+      "Tag-1",
+      "Tag-2",
+      "Tag-3",
+      "Tag-4"
+    ],
+    "id": "1757518135027"
+  },
+  {
+    "title": "API de Gerenciamento de Veículos",
+    "short_description": "API em Python e Flask para gerenciar veículos (CRUD), usando PostgreSQL e Docker.",
+    "description": "Esta é uma API simples para gerenciar informações sobre veículos, construída com Python, Flask, PostgreSQL e Docker. A API permite adicionar, visualizar, atualizar e excluir registros de veículos.",
+    "challenges_and_solutions": "...",
+    "status": "Em desenvolvimento",
+    "release_date": "02/10/2023",
+    "version": "1.0",
+    "type": "Back-End",
+    "project_link": "https://github.com/Keven-Costa/veiculos-api?tab=readme-ov-file#api-de-gerenciamento-de-ve%C3%ADculos",
+    "repository_link": "https://github.com/Keven-Costa/veiculos-api?tab=readme-ov-file#api-de-gerenciamento-de-ve%C3%ADculos",
+    "createdAt": "2025-09-10T15:35:24.692Z",
+    "updatedAt": "2025-09-10T15:35:24.690Z",
+    "technologies_used": [
+      "Python",
+      "PostgreSQL",
+      "Docker"
+    ],
+    "features": [
+      "Operações CRUD: A API oferece um conjunto completo de operações CRUD (Criar, Ler, Atualizar, Excluir)"
+    ],
+    "img": [],
+    "tag": [
+      "Tag-1",
+      "Tag-2",
+      "Tag-3",
+      "Tag-4"
+    ],
+    "id": "1757518524692"
+  },
+  {
+    "id": "1757518922519",
+    "title": "Sistema Bancário em Java",
+    "short_description": "Projeto de sistema bancário em Java com Programação Orientada a Objetos para gerenciar contas, depósitos, saques e saldos.",
+    "description": "Este projeto é um sistema bancário simples desenvolvido em Java, utilizando Programação Orientada a Objetos (POO). O sistema permite gerenciar contas bancárias, realizar depósitos, saques e verificar saldo.",
+    "challenges_and_solutions": "...",
+    "status": "Em desenvolvimento",
+    "release_date": "10/09/2025",
+    "version": "1.0",
+    "type": "Front-End",
+    "project_link": "https://github.com/Keven-Costa/SistemaBancario?tab=readme-ov-file#sistema-banc%C3%A1rio-em-java",
+    "repository_link": "https://github.com/Keven-Costa/SistemaBancario?tab=readme-ov-file#sistema-banc%C3%A1rio-em-java",
+    "createdAt": "2025-09-10T15:42:02.519Z",
+    "updatedAt": "2025-09-10T15:42:24.576Z",
+    "technologies_used": [
+      "Java",
+      "CLI"
+    ],
+    "features": [
+      "Criação de contas bancárias com número de conta gerado aleatoriamente.",
+      "Cadastro de clientes com nome e informações básicas.",
+      "Operações bancárias: depósito, saque e consulta de saldo."
+    ],
+    "img": [],
+    "tag": [
+      "Tag-1",
+      "Tag-2",
+      "Tag-3",
+      "Tag-4"
+    ]
+  },
+  {
+    "id": "1757519703750",
+    "title": "Atividades - Programação Front - End",
+    "short_description": "...",
+    "description": "...",
+    "challenges_and_solutions": "...",
+    "status": "Concluído",
+    "release_date": "03/07/2025",
+    "version": "1.0",
+    "type": "Front-End",
+    "project_link": "https://github.com/Keven-Costa/programacao-front-end?tab=readme-ov-file#reposit%C3%B3rio-de-atividades---programa%C3%A7%C3%A3o-front---end",
+    "repository_link": "https://github.com/Keven-Costa/programacao-front-end?tab=readme-ov-file#reposit%C3%B3rio-de-atividades---programa%C3%A7%C3%A3o-front---end",
+    "createdAt": "2025-09-10T15:55:03.750Z",
+    "updatedAt": "2025-09-10T15:55:54.572Z",
+    "technologies_used": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "features": [
+      "Atividade 1 : https://keven-costa.github.io/programacao-front-end/atividade-1/pages/",
+      "Atividade 3: https://keven-costa.github.io/programacao-front-end/atividade-3/pages/index.html",
+      "Atividade 4: https://keven-costa.github.io/programacao-front-end/atividade-4/pages/index.html"
+    ],
+    "img": [
+      "https://github.com/Keven-Costa/programacao-front-end/raw/main/atividade-1/atividade-1.gif",
+      "https://github.com/Keven-Costa/programacao-front-end/raw/main/atividade-3/atividade-3.gif",
+      "https://github.com/Keven-Costa/programacao-front-end/raw/main/atividade-4/atividade-4.gif"
+    ],
+    "tag": [
+      "Tag-1",
+      "Tag-2",
+      "Tag-3",
+      "Tag-4"
+    ]
+  }
+]
