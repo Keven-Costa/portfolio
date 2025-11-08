@@ -270,7 +270,7 @@ fetch(JSON_PROJECTS_FILE)
                 <div class="project-img">
                     <img src=${p.img[0]} alt="Sistema de Gestão Inteligente">
                     <div class="project-overlay">
-                        <a href="/pages/project.html?id=${p.id}" class="hero-btn">Ver Detalhes</a>
+                        <a href="project.html?id=${p.id}" class="hero-btn">Ver Detalhes</a>
                     </div>
                 </div>
                 <div class="project-content">
